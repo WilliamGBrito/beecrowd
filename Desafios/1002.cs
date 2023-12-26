@@ -7,7 +7,7 @@ class URI
     {
         double PI = 3.14159;
         double raio = Math.Round(double.Parse(Console.ReadLine()), 2);
-        Console.WriteLine($"A={PI * Math.Pow(raio, 2):0.0000}");
+        Console.WriteLine($"A={PI * Math.Pow(raio, 2):F4}");
     }
 
 }
