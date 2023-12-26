@@ -1,12 +1,13 @@
 ﻿using System;
 
-class beecrowd
+class URI
 {
 
     static void Main(string[] args)
     {
 
         Console.WriteLine("Hello World!");
+
     }
 
 }
